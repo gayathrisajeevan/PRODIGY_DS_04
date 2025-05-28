@@ -27,5 +27,5 @@ I worked on an exciting project to analyze public opinion on various entities us
 
 ---
 
-### 📎 Tags:
+
 `#SentimentAnalysis` `#PowerBI` `#DataVisualization` `#Python` `#DataAnalytics` `#GitHubProject`
