@@ -20,6 +20,9 @@ I worked on an exciting project to analyze public opinion on various entities us
 - Excel
 - Power BI
 
+![Dashboard Screenshot]()
+
+
 ##  Key Takeaways:
 - Hands-on with text data preprocessing
 - Learned to convert social data into insights
