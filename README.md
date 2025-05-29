@@ -15,13 +15,12 @@ I worked on an exciting project to analyze public opinion on various entities us
 - KPI cards with total & category-wise tweet counts
 - Table showing tweet content for context
 
+  ![Dashboard Screenshot](https://github.com/gayathrisajeevan/PRODIGY_DS_04/blob/main/Dashboard.png)
+
 ##  Tools Used:
 - Python (Pandas)
 - Excel
 - Power BI
-
-![Dashboard Screenshot]()
-
 
 ##  Key Takeaways:
 - Hands-on with text data preprocessing
